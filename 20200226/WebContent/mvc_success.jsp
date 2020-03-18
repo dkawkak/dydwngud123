@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>MVC 예제</title>
+<title>MVC 예제d</title>
 </head>
 <body>
 	<%
