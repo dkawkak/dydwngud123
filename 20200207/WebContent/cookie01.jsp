@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>MVC 예제</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<form action="ControllerServlet" method="post">
+	<form action="cookie01_process.jsp" method="post">
 		<p>아이디:<input type="text" name="id">
-		<p>비밀번호:<input type="password" name="passwd">
-		<p><input type="submit" value="보내기">
+		<p>비밀번호:<input type="text" name="passwd">
+		<p><input type="submit" value="전송">
 	</form>
 </body>
 </html>
